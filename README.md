@@ -1,3 +1,5 @@
+# DrJP99
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working at:
+
+[<img src='https://www.netlogistik.com/hubfs/Landing%20Pages/Logos/SVG/Logo_Netlogistik_Positivo.svg' alt='netLogistik' height='50' style='background-color:#FFF;padding:0.5em;border-radius:5px' >](https://www.netlogistik.com)
+
+### Find me at
+
+[LinkedIn](https://www.linkedin.com/in/juan-pablo-gonz%C3%A1lez-b79a22145/)
+
+## My Skills
+
+#### Programming Languages
+
+![python](https://skillicons.dev/icons?i=py,js,ts,cpp,php,java,c)
+
+#### Front End
+
+![](https://skillicons.dev/icons?i=html,css,react,bootstrap)
+
+#### Other Technologies
+
+![](https://skillicons.dev/icons?i=git,github,mysql,mongo,linux,ubuntu,bash,nodejs,express,fastapi,docker,obsidian,md,redux,)
+
+#### Other Skills
+
+![My SKills](https://skillicons.dev/icons?i=windows,ai,vscode)
