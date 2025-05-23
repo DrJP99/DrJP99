@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Currently working at:
 
-[<img src='https://www.netlogistik.com/hubfs/Landing%20Pages/Logos/SVG/Logo_Netlogistik_Positivo.svg' alt='netLogistik' height='50' style='background-color:#FFF;padding:0.5em;border-radius:5px' >](https://www.netlogistik.com)
+[<img src='https://www.epicor.com/globalassets/uploadedimages/shared/epicor-logo.svg' alt='Epicor' height='50' style='background-color:#FFF;padding:0.5em;border-radius:5px' >](https://www.epicor.com/en-us/)
 
 ### Find me at
 
@@ -29,7 +29,7 @@ Currently working at:
 
 #### Programming Languages
 
-![python](https://skillicons.dev/icons?i=py,js,ts,cpp,php,java,c)
+![python](https://skillicons.dev/icons?i=py,js,ts,cpp,php,java,c,cs)
 
 #### Front End
 
